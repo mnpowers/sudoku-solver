@@ -1,8 +1,6 @@
 
 package sudokusolver;
 
-import java.util.Arrays;
-import java.util.Set;
 import javax.swing.SwingUtilities;
 
 public class SudokuSolver {
